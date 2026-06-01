@@ -1,0 +1,126 @@
+{
+  "Weight Thin": {
+    "$value": 100,
+    "$type": "number"
+  },
+  "Weight Extra Light": {
+    "$value": 200,
+    "$type": "number"
+  },
+  "Weight Light": {
+    "$value": 300,
+    "$type": "number"
+  },
+  "Weight Regular": {
+    "$value": 400,
+    "$type": "number"
+  },
+  "Weight Medium": {
+    "$value": 500,
+    "$type": "number"
+  },
+  "Weight Semibold": {
+    "$value": 600,
+    "$type": "number"
+  },
+  "Weight Bold": {
+    "$value": 700,
+    "$type": "number"
+  },
+  "Weight Extra Bold": {
+    "$value": 800,
+    "$type": "number"
+  },
+  "Weight Black": {
+    "$value": 900,
+    "$type": "number"
+  },
+  "Scale 10": {
+    "$value": 72,
+    "$type": "number"
+  },
+  "Scale 09": {
+    "$value": 64,
+    "$type": "number"
+  },
+  "Scale 08": {
+    "$value": 48,
+    "$type": "number"
+  },
+  "Scale 07": {
+    "$value": 40,
+    "$type": "number"
+  },
+  "Scale 06": {
+    "$value": 32,
+    "$type": "number"
+  },
+  "Scale 05": {
+    "$value": 24,
+    "$type": "number"
+  },
+  "Scale 04": {
+    "$value": 20,
+    "$type": "number"
+  },
+  "Scale 03": {
+    "$value": 16,
+    "$type": "number"
+  },
+  "Scale 02": {
+    "$value": 14,
+    "$type": "number"
+  },
+  "Scale 01": {
+    "$value": 12,
+    "$type": "number"
+  },
+  "Family Sans": {
+    "$value": "Inter",
+    "$type": "string"
+  },
+  "Family Serif": {
+    "$value": "Noto Serif",
+    "$type": "string"
+  },
+  "Family Mono": {
+    "$value": "Roboto Mono",
+    "$type": "string"
+  },
+  "Weight Light Italic": {
+    "$value": "Light Italic",
+    "$type": "string"
+  },
+  "Weight Regular Italic": {
+    "$value": "Italic",
+    "$type": "string"
+  },
+  "Weight Bold Italic": {
+    "$value": "Bold Italic",
+    "$type": "string"
+  },
+  "Weight Thin Italic": {
+    "$value": "Thin Italic",
+    "$type": "string"
+  },
+  "Weight Extralight Italic": {
+    "$value": "Extra Light Italic",
+    "$type": "string"
+  },
+  "Weight Medium Italic": {
+    "$value": "Medium Italic",
+    "$type": "string"
+  },
+  "Weight Semibold Italic": {
+    "$value": "Semi Bold Italic",
+    "$type": "string"
+  },
+  "Weight Extra Bold Italic": {
+    "$value": "Extra Bold Italic",
+    "$type": "string"
+  },
+  "Weight Black Italic": {
+    "$value": "Black Italic",
+    "$type": "string"
+  }
+}
