@@ -1,0 +1,64 @@
+{
+  "$metadata": {
+    "collection": "Responsive",
+    "modes": [
+      "Mobile",
+      "Desktop",
+      "Tablet"
+    ]
+  },
+  "Mobile": {
+    "Device Width": {
+      "$value": 375,
+      "$type": "number"
+    },
+    "Root Font Size": {
+      "$value": "{Scale 03}",
+      "$type": "number"
+    },
+    "Scale": {
+      "$value": 1.25,
+      "$type": "number"
+    },
+    "Device": {
+      "$value": "mobile",
+      "$type": "string"
+    }
+  },
+  "Desktop": {
+    "Device Width": {
+      "$value": 1200,
+      "$type": "number"
+    },
+    "Root Font Size": {
+      "$value": "{Scale 03}",
+      "$type": "number"
+    },
+    "Scale": {
+      "$value": 1,
+      "$type": "number"
+    },
+    "Device": {
+      "$value": "desktop",
+      "$type": "string"
+    }
+  },
+  "Tablet": {
+    "Device Width": {
+      "$value": 768,
+      "$type": "number"
+    },
+    "Root Font Size": {
+      "$value": "{Scale 03}",
+      "$type": "number"
+    },
+    "Scale": {
+      "$value": 1,
+      "$type": "number"
+    },
+    "Device": {
+      "$value": "tablet",
+      "$type": "string"
+    }
+  }
+}
