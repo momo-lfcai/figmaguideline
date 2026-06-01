@@ -1,0 +1,178 @@
+{
+  "Space": {
+    "0": {
+      "$value": 0,
+      "$type": "number"
+    },
+    "100": {
+      "$value": 4,
+      "$type": "number"
+    },
+    "150": {
+      "$value": 6,
+      "$type": "number"
+    },
+    "200": {
+      "$value": 8,
+      "$type": "number"
+    },
+    "300": {
+      "$value": 12,
+      "$type": "number"
+    },
+    "400": {
+      "$value": 16,
+      "$type": "number"
+    },
+    "600": {
+      "$value": 24,
+      "$type": "number"
+    },
+    "800": {
+      "$value": 32,
+      "$type": "number"
+    },
+    "1200": {
+      "$value": 48,
+      "$type": "number"
+    },
+    "1600": {
+      "$value": 64,
+      "$type": "number"
+    },
+    "2400": {
+      "$value": 96,
+      "$type": "number"
+    },
+    "4000": {
+      "$value": 160,
+      "$type": "number"
+    },
+    "Negative 100": {
+      "$value": -4,
+      "$type": "number"
+    },
+    "Negative 200": {
+      "$value": -8,
+      "$type": "number"
+    },
+    "Negative 300": {
+      "$value": -12,
+      "$type": "number"
+    },
+    "Negative 400": {
+      "$value": -16,
+      "$type": "number"
+    },
+    "Negative 600": {
+      "$value": -24,
+      "$type": "number"
+    },
+    "050": {
+      "$value": 2,
+      "$type": "number"
+    }
+  },
+  "Radius": {
+    "100": {
+      "$value": 4,
+      "$type": "number"
+    },
+    "200": {
+      "$value": 8,
+      "$type": "number"
+    },
+    "400": {
+      "$value": 16,
+      "$type": "number"
+    },
+    "Full": {
+      "$value": 9999,
+      "$type": "number"
+    }
+  },
+  "Depth": {
+    "0": {
+      "$value": 0,
+      "$type": "number"
+    },
+    "100": {
+      "$value": 4,
+      "$type": "number"
+    },
+    "200": {
+      "$value": 8,
+      "$type": "number"
+    },
+    "400": {
+      "$value": 16,
+      "$type": "number"
+    },
+    "800": {
+      "$value": 32,
+      "$type": "number"
+    },
+    "1200": {
+      "$value": 48,
+      "$type": "number"
+    },
+    "025": {
+      "$value": 1,
+      "$type": "number"
+    },
+    "Negative 025": {
+      "$value": -1,
+      "$type": "number"
+    },
+    "Negative 100": {
+      "$value": -4,
+      "$type": "number"
+    },
+    "Negative 200": {
+      "$value": -8,
+      "$type": "number"
+    },
+    "Negative 400": {
+      "$value": -16,
+      "$type": "number"
+    },
+    "Negative 800": {
+      "$value": -32,
+      "$type": "number"
+    },
+    "Negative 1200": {
+      "$value": -48,
+      "$type": "number"
+    }
+  },
+  "Stroke": {
+    "Border": {
+      "$value": 1,
+      "$type": "number"
+    },
+    "Focus Ring": {
+      "$value": 2,
+      "$type": "number"
+    }
+  },
+  "Blur": {
+    "100": {
+      "$value": 4,
+      "$type": "number"
+    }
+  },
+  "Icon": {
+    "Small": {
+      "$value": 24,
+      "$type": "number"
+    },
+    "Medium": {
+      "$value": 32,
+      "$type": "number"
+    },
+    "Large": {
+      "$value": 40,
+      "$type": "number"
+    }
+  }
+}
